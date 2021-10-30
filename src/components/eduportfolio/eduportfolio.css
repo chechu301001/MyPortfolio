@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+.eduportfolio-screen{
+    width: 100vw;
+    height: 100vh;
+    background: rgba(43, 45, 47, 1);
+}
+.styles_scroll-to-top__2A70v{
+    height: 3.1em !important;
+    width: 3.1em !important;
+    right: 4em !important;
+}
+.scrollbtn{
+    height: 2em;
+    width: 2em;
+}
+.styles_scroll-to-top__2A70v {
+    background-color: rgb(230, 230, 230) !important;
+}

@@ -1,0 +1,28 @@
+.card{
+    margin: 0.8em;
+    border-radius: 0.7em !important;
+    display: flex;
+    align-items: center;
+    transition: 0.3s ease-in-out;
+    justify-content: center;
+}
+.card:hover{
+    transform: scale(1.025);
+    box-shadow: 0 10px 10px 0 rgba(0,0,0,0.2);
+}
+.card-img-top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0.5em;
+}
+.card-body{
+    text-align: center;
+}
+.card-body h5{
+    letter-spacing: 0.2em;
+    font-weight: 500 !important;
+}
+.card-body-title{
+    width: 100%;
+}
